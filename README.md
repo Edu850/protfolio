@@ -2,7 +2,7 @@
 ## ABOUT ME
 
 Hello! I'm Chinedu Israel Nwofor 🤓, a data analyst with extensive experience in leveraging data to solve real-world problems and drive business success. Proficient in tools like SQL, Python, Tableau, Excel and Power BI, I excel at transforming raw data into meaningful insights that inform strategic decisions and improve operational processes. And also with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth. 
-I hold an M.Sc. in Smart Grids and Energy Systems from the University of Bradford and an M.Eng. in Electrical and Electronic Engineering. This strong academic background, combined with my professional expertise, equips me to bridge the gap between technical analysis and business needs effectively.
+I hold an M.Sc. in Smart Grids and Energy Systems from the University of Bradford UK and an M.Eng. in Electrical and Electronic Engineering. This strong academic background, combined with my professional expertise, equips me to bridge the gap between technical analysis and business needs effectively.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -67,7 +67,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://Edu850.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
