@@ -1,15 +1,15 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'mChinedu Israel Nwofor 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'mChinedu Israel Nwofor 🤓, a data analyst with extensive experience in leveraging data to solve real-world problems and drive business success. Proficient in tools like SQL, Python, Tableau, Excel and Power BI, I excel at transforming raw data into meaningful insights that inform strategic decisions and improve operational processes. And also with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As a Data Analyst of Quantum Analystic NG (Remote), I develop and manage data pipelines, design real-time dashboards, and collaborate with multidisciplinary teams to deliver innovative solutions, including predictive maintenance prototypes. My prior experience in the oil and gas industry allowed me to optimize processes, enhance efficiency, and ensure compliance through data-driven insights.
 
-**- ✅ Data Analytics Consulting.**
+**- ✅ Data Analystics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **- ✅ Staff Training & Development.**
@@ -53,15 +53,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">cnwofor150@gmail.com</a></td>
+      <td><a href="mailto:cnwofor150@gmail.com@gmail.com">cnwofor150@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(+44) 788-635-0239</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Bradford, United Kingdom</td>
     </tr>
     <tr>
       <td>⬇️</td>
