@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'mChinedu Israel Nwofor 🤓, a data analyst with extensive experience in leveraging data to solve real-world problems and drive business success. Proficient in tools like SQL, Python, Tableau, Excel and Power BI, I excel at transforming raw data into meaningful insights that inform strategic decisions and improve operational processes. And also with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Chinedu Israel Nwofor 🤓, a data analyst with extensive experience in leveraging data to solve real-world problems and drive business success. Proficient in tools like SQL, Python, Tableau, Excel and Power BI, I excel at transforming raw data into meaningful insights that inform strategic decisions and improve operational processes. And also with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
